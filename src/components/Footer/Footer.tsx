@@ -9,7 +9,7 @@ export const Footer = () => {
                     Desarrollado por
                     <span className="font-bold">
                         <Link title="Descubre al creador" to="https://jeremydiaz.netlify.app/" isActive target="_blank">
-                            jevmydev
+                            jeremycdc
                         </Link>
                     </span>
                 </p>

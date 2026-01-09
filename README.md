@@ -21,7 +21,7 @@ Interactúa y descubre la experiencia de **charlar con personajes de AI fascinan
 
 **¡Código abierto al mundo!**
 
--   Puedes utilizar el producto realizando un `git clone https://github.com/jevmydev/char-ai` en tu terminal.
+-   Puedes utilizar el producto realizando un `git clone https://github.com/jeremy-cdc/char-ai` en tu terminal.
 -   Crear el archivo `.env.local` en la raíz del proyecto.
 -   Después, crear: `VITE_OPENAI_APIKEY` (Revisa `https://platform.openai.com/docs/quickstart/build-your-application`).
 -   Luego emplear `npm run dev` en tu terminal para desplegar un entorno de desarrollo en la web.

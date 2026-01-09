@@ -6,10 +6,10 @@
     "author": "Jeremy Díaz",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jevmydev/char-ai.git"
+        "url": "git+https://github.com/jeremy-cdc/char-ai.git"
     },
     "bugs": {
-        "url": "https://github.com/jevmydev/char-ai/issues"
+        "url": "https://github.com/jeremy-cdc/char-ai/issues"
     },
     "icons": [
         {
